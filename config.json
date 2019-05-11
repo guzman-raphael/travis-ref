@@ -1,4 +1,4 @@
 {
   "mysql": "none",
-  "minio": "test"
+  "minio": "10.20.0.61"
 }
