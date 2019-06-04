@@ -1,5 +1,6 @@
 {
   "mysql": "10.20.0.12",
   "minio": "10.20.1.39",
-  "newProp": "five"
+  "newProp": "five",
+  "meetMe": "now"
 }
